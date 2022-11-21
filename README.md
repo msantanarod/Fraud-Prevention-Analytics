@@ -1,10 +1,10 @@
 ![logo](logo.jpg)
 # Fraud Prevention Analytics Repository
 ________________________________________________________________________________________________________________________________________________________________
-The purpose of this repository is to gather all our projects related to fraud prevention analysis:
+The purpose of this repository is to gather all my projects related to fraud prevention analysis:
 
 ## Credit card Fraud Detection:
-This is our first fraud prevention data analysis project. Its goals are the following:
+This is the first fraud prevention data analysis project. Its goals are the following:
 <ol>
   <li>Define the concept of "Fraud".</li>
   <li>Explain how Fraud Prevention analysts caught fraudulent transactions before Machine Learning (ML) became a frequent tool in fraud prevention.</li>
